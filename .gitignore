@@ -1,0 +1,7 @@
+.idea
+.vscode
+venv/
+static/
+media/
+db.sqlite3
+Pipfile*
